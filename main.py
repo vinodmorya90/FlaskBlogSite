@@ -157,7 +157,7 @@ def contact():
     return render_template('contact.html')
 
 
-# Sample Post
+# Sample Post...
 @app.route('/post')
 def post():
     return render_template('post.html')
