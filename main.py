@@ -172,4 +172,4 @@ def deletePost(post_id):
 # app.run(debug=True, params[])
 
 
-app.run(debug=True, host=params['app_url'], port=params['app_port'])
+app.run(debug=True,port=80)
