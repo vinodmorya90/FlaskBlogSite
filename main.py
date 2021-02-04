@@ -53,8 +53,9 @@ mongoDb = MongoDbConnector(params['uri'],'Employee')
 # Homepage
 @app.route('/')
 def home():
-    posts = mongoDb.GetAllRecords('posts',{})
-    return render_template('index.html', params=params, posts=posts)
+    return "Hello World . Namaste "
+    # posts = mongoDb.GetAllRecords('posts',{})
+    # return render_template('index.html', params=params, posts=posts)
 
 # About Us
 @app.route('/about')
