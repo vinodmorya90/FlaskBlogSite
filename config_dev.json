@@ -1,0 +1,9 @@
+{
+  "params": {
+    "uri": "mongodb://127.0.0.1:27017/",
+    "gmail_user": "vickey2rock@gmail.com",
+    "gmail_passwd": "facebookpass",
+    "app_url": "127.0.0.1",
+    "app_port": "5000"
+  }
+}
