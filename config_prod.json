@@ -4,7 +4,7 @@
     "gmail_user": "vickey2rock@gmail.com",
     "gmail_passwd": "facebookpass",
     "app_url": "127.0.0.1",
-    "app_port": "5005",
+    "app_port": "80",
     "blog_name":"vinod personal blog",
     "login_image": "login.png",
     "admin_user": "vinod@gmail.com",
