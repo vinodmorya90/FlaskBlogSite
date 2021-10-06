@@ -2,7 +2,7 @@
   "params": {
     "uri": "mongodb://127.0.0.1:27017/",
     "gmail_user": "vickey2rock@gmail.com",
-    "gmail_passwd": "facebookpass",
+    "gmail_passwd": "xxxxxxx",
     "app_url": "127.0.0.1",
     "app_port": "80",
     "blog_name":"vinod personal blog",
